@@ -1,0 +1,31 @@
+.card-dimension{
+	max-width: auto; min-height: 450px; max-height: auto;
+}
+
+.img-dimension{
+	width: 100%; min-height: 200px ; max-height: 200px;
+}
+
+.star-dimension{
+	width: 18px;
+}
+.beli-dimension{
+	width: 25px;
+}
+
+.container-dimension{
+	min-height: 200px;
+}
+
+.img-circle{
+	width: 130px;
+	height: 130px;
+}
+
+.word-zea{
+	letter-spacing: 2-px;
+}
+
+.input-size{
+	max-height: 5px;
+}
